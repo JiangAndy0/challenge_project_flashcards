@@ -2,7 +2,7 @@ import NewTopicForm from "../../components/NewTopicForm";
 import { Link } from "react-router-dom";
 import ROUTES from "../../app/routes";
 import { useSelector } from "react-redux";
-import { selectTopics } from "./topicSlice";
+import { selectTopics } from "./topicsSlice";
 
 export default function Topics() {
   const topics = useSelector(selectTopics); 
