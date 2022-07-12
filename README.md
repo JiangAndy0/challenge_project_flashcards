@@ -2,7 +2,7 @@
 ## A Codecademy Challenge Project
 
 ### Description
-A flashcard study website built with React, React-Router, Redux, and Redux toolkit.   
+A flashcard study website built with React, React-Router, Redux, and Redux toolkit.       
 **What is a Codecademy Challenge Project?**   
 For Codecademy Challenge Projects, Codecademy provides the initial setup, prompt, and guidelines, but lets you choose your implementation.
 
