@@ -1,3 +1,11 @@
+# Flashcards
+## A Codecademy Challenge Project
+
+### Description
+A flashcard study website built with React, React-Router, Redux, and Redux toolkit. 
+**What is a Codecademy Challenge Project?**   
+For Codecademy Challenge Projects, Codecademy provides the initial setup, prompt, and guidelines, but lets you choose your implementation.
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
